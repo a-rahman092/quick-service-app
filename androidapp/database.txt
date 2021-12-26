@@ -1,0 +1,8 @@
+
+Database:	yvxrlaix_quickservice
+
+Host:	localhost
+
+Username:	yvxrlaix_quickservice
+
+Password:	S5up3oV6
